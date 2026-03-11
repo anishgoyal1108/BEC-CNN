@@ -44,3 +44,5 @@ Thumbs.db
 .coverage
 coverage.xml
 .benchmarks/
+
+.claude/
