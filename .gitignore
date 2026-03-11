@@ -1,0 +1,46 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Jupyter and IPython
+.ipynb_checkpoints
+
+# Data, logs, and outputs
+data/raw/
+data/interim/
+data/processed/
+logs/
+outputs/
+checkpoints/
+runs/
+
+# Model files
+*.h5
+*.hdf5
+*.ckpt
+*.pt
+*.pth
+*.onnx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors and tooling
+.vscode/
+.idea/
+*.swp
+*.swo
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+.benchmarks/
